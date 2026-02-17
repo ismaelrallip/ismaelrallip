@@ -1,4 +1,4 @@
-## Hi there 👋
+## Estudiante avanzado de Ing. en Sistemas. Desarrollador full stack. 💻⚙️
 
 <!--
 **ismaelrallip/ismaelrallip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
